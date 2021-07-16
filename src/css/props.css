@@ -1,0 +1,84 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.fixed {
+    position: fixed;
+    
+}
+
+.flex {
+   display: flex; 
+}
+
+.bl {
+    display:block;
+}
+
+.noul {
+    text-decoration: none;
+}
+
+ul, ol {
+   margin: 0px;
+   padding: 0px;
+   list-style: none;
+
+}
+
+.c333 {
+    color: #333;
+}
+
+.c777 {
+    color: #777;
+}
+
+.cfff{
+    color:#fff;
+}
+.s13 {
+    font-size:13px;
+}
+.s15 {
+   font-size: 15px; 
+}
+
+.s24 {
+    font-size: 24px;
+}
+
+h1, h2, h3, h4, h5,h6 {
+   font-weight: normal;
+   margin: 0px;
+   padding: 0px;
+
+}
+.flex{display: flex;}
+.fixed{position: fixed;}
+.aic {align-items: center;}
+.jic {
+   justify-content: center;
+}
+.fontb {
+    font-weight: bold;
+}
+.abs {
+   position: absolute;
+}
+.rel{position: relative;}
+
+.fontn{font-weight: normal;}
+.fontb{font-weight: bold;}
+
+button{
+    outline: none;
+    cursor: pointer;  
+}
+
+select, textarea, input {
+    outline: none;
+}
+
